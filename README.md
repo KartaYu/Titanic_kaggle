@@ -25,3 +25,5 @@
     * In this case, wa have a lot of missing data, It has an effective method for estimating missing data and maintains accuracy when large proportion of the data are missing.
 2. XGBoost
     * It is designed to handle missing data with its in-build features.
+
+### Result (結果)
